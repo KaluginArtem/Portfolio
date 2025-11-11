@@ -8,7 +8,6 @@ export default function HomePageButtons() {
             <a href = "https://www.linkedin.com/in/artem-kaluhin-761556255/">LinkedIn</a>
             <a href = "mailto:kalugin.atr.i@gmail.com">EMail</a>
             <a href = "https://t.me/kaluhin_art_i">Telegram</a>
-            <a href = "https://www.instagram.com/kaluhin_art_i/">Instagram</a>
         </div>
     );
 }
